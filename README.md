@@ -21,7 +21,7 @@ O layout da aplicação mobile está disponível neste link: <a href="https://ww
 
 ---
 
-## 📄 Funcionalidades
+## 📄 Documentação
 
 A documentação das funcionalidades da aplicação pode ser acessada neste link: <a href="https://trello.com/b/O0lGCsKb/api-voll-med">Trello</a>
 
